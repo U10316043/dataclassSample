@@ -15,6 +15,7 @@
 
 	- 1/16 Texrual Visualization - African swine fever.ipynb
 
+	- 1/27 爬中職官網比賽play by play紀錄抓打者對上投手的表現.ipynb
 [Meta Kaggle: What happened to the team size?](https://www.kaggle.com/gpreda/meta-kaggle-what-happened-to-the-team-size)
 
 [A Data Science Framework: To Achieve 99% Accuracy](https://www.kaggle.com/ldfreeman3/a-data-science-framework-to-achieve-99-accuracy)
